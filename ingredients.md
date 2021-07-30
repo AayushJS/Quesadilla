@@ -1,0 +1,1 @@
+chesse,vegetable,sauces,readymade roti,oil,mayonniesse,potato,salt,oregano
